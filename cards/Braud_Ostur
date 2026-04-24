@@ -1,0 +1,10 @@
+{
+  "health": 5,
+  "attack": 3,
+
+  "country": 0,
+  "rarity": 0,
+
+  "sigil_ids": [0],
+  "card_id": 0,
+}
